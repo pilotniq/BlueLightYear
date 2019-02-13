@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Core51822
+D Core51822 module for Nordic nRF51822 Bluetooth Low Energy processor
+K BLE Nordic nRF51822 module
+$ENDCMP
+#
+#End Doc Library
